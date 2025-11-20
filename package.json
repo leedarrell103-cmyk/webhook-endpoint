@@ -1,0 +1,10 @@
+{
+  "name": "webhook-endpoint",
+  "version": "1.0.0",
+  "description": "Simple webhook endpoint to receive POST requests",
+  "main": "api/webhook.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT"
+}
